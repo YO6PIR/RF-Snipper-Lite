@@ -1,3 +1,5 @@
+<img width="997" height="608" alt="RF_Snipper_Lite" src="https://github.com/user-attachments/assets/6fa77260-6db9-4701-85f4-1738003c9387" />
+
 # RF Sniper Lite – Primul analizor RF din familia RF Sniper
 
 RF Sniper Lite este primul aparat din seria RF Sniper, realizat ca un analizor RF compact construit în jurul unui ATmega8, al unui LCD HD44780 16×2 și al unui sintetizor Si5351.
